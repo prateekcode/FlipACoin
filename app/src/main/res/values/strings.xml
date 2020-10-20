@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlipACoin</string>
+    <string name="flip_a_coin">Flip A Coin</string>
+    <string name="head_or_tail">Head or Tail Image</string>
+    <string name="head">HEAD</string>
+    <string name="any_guess">Any Guess?</string>
+    <string name="flip">Flip</string>
+</resources>
